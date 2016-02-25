@@ -1,0 +1,70 @@
+html {
+  overflow-y: scroll;
+  width: 100%;
+}
+
+img {
+  cursor: pointer;
+}
+
+.login {
+  margin-top: 15px;
+  height: 25px;
+}
+
+h1 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+
+input {
+  vertical-align: middle;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.butty {
+  margin-left: 5px;
+}
+
+.pad {
+  margin-bottom: 50px;
+}
+
+#debug {
+  margin-top: 30px;
+}
+
+.quad_line {
+  text-align: center;
+}
+
+.name {
+  text-decoration: underline;
+  padding-top: 4px;
+}
+
+.going, .street, .city, .phone {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.going {
+  margin-bottom: 3px
+}
+
+.description {
+  padding-right: 20px;
+}
+
+.spacey {
+  margin-bottom: 10px;
+}
+
+#search_results {
+  margin-left: 0px;
+}
+
+.heady {
+  padding-left: 20px;
+}
